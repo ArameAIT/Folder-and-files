@@ -1,0 +1,14 @@
+{
+  "name": "folder-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "folder.js",
+  "scripts": {
+    "start": "node folder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+}

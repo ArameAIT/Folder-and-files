@@ -1,0 +1,48 @@
+{
+    "name": "homeworks",
+    "type": "folder",
+    "children": [
+      {
+        "name": "homework1.txt",
+        "type": "file",
+        "content": "5 * 7 = 35"
+      },
+      {
+        "name": "homework2.txt",
+        "type": "file",
+        "content": "6 * 8 = 48"
+      },
+      {
+        "name": "homework3",
+        "type": "folder",
+        "children": [
+          {
+            "name": "homework3-1.txt",
+            "type": "file",
+            "content": "7 * 9 = 63"
+          },
+          {
+            "name": "homework3-2.txt",
+            "type": "file",
+            "content": "8 * 10 = 80"
+          },
+          {
+            "name": "homework-3-3",
+            "type": "folder",
+            "children": [
+              {
+                "name": "homework3-3-1.txt",
+                "type": "file",
+                "content": "9 * 11 = 99"
+              },
+              {
+                "name": "homework3-3-2.txt",
+                "type": "file",
+                "content": "10 * 12 = 120"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
